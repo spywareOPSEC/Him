@@ -70,7 +70,7 @@ Je suis un développeur JavaScript passionné par les technologies web modernes.
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Featured Projects
 
-*(Ajoute ici les projets que tu veux mettre en avant, avec liens et descriptions.)*
+*None.*
 
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Currently Learning
 
@@ -94,5 +94,6 @@ Je suis un développeur JavaScript passionné par les technologies web modernes.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 
 

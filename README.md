@@ -29,7 +29,7 @@ const MEOW = {
 };
 ```
 
-Je suis un développeur JavaScript passionné par les technologies web modernes. J’aime construire des applications propres, efficaces et faciles à utiliser. Mon approche combine excellence technique et résolution créative de problèmes.
+I am a JavaScript developer passionate about modern web technologies. I like to build applications that are clean, efficient and easy to use. My approach combines technical excellence and creative problem solving.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
 
@@ -97,3 +97,4 @@ Je suis un développeur JavaScript passionné par les technologies web modernes.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+

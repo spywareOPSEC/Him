@@ -20,12 +20,12 @@
 
 ```javascript
 const MEOW = {
-  location: "Allemagne, Berlin",
-  education: "Computer Science",
+  location: "Belgique, Brussel",
+  education: "Computer",
   fields: ["Web Development", "UI/UX", "API Design", "Security Research"],
   currentFocus: "Building scalable web applications with modern JavaScript",
-  hobbies: ["Coding", "COC Competitions", "Reading", "Gaming"],
-  funFact: "I am UHQ!"
+  hobbies: ["Coding", "Reading", "Gaming"],
+  funFact: "We are UHQ!"
 };
 ```
 
@@ -94,4 +94,5 @@ Je suis un développeur JavaScript passionné par les technologies web modernes.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
 
